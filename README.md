@@ -19,6 +19,6 @@
 # Summary:
 From my temperature analysis it appears that Hawaii stays relatively the same temperature year round (lower to mid 70s) which would make it a great location for the surf and ice cream shop due to consistently favorable temperature conditions year round.  
 
--I also investigated the precipitation data for June and December. On average it rains about 0.14 inches in June and 0.22 inches in December. 
+- I also investigated the precipitation data for June and December. On average it rains about 0.14 inches in June and 0.22 inches in December. 
 
--I would suggest investigating this data deeper by only looking at weather data stations within in a certain distance of the proposed location in order to narrow down the temperature and preciiptation data to the area of investiation for the proposed shop. 
+- I would suggest investigating this data deeper by only looking at weather data stations within in a certain distance of the proposed location in order to narrow down the temperature and preciiptation data to the area of investiation for the proposed shop. 
