@@ -6,7 +6,7 @@
 # Results:
   ### June
   ![This is an image](https://github.com/nsmeltz/Module_9_Challenge/blob/cfcce8c1f2e1c5bbd7970bca05433740b1266e14/June.png)                                      
-    - There are 1700 data points for the month of June in the years 2010-2017 in this dataset                  
+    * There are 1700 data points for the month of June in the years 2010-2017 in this dataset                  
     - The average temperature across all years in June was about 75 degrees            
     - The minimum temperature was 64 degrees and the maximum was 85 degrees             
     
